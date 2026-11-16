@@ -30,8 +30,3 @@ Mi objetivo profesional es seguir desarrollándome en el área de análisis de d
 - Análisis de información financiera y presupuestaria
 - Automatización y mejora de procesos
 
-## 🎯 Objetivo
-
-Construir proyectos prácticos que permitan demostrar mis habilidades en análisis de datos, transformación de información, modelado de datos y visualización mediante herramientas de Business Intelligence.
-
-Siempre enfocado en aprender, desarrollar nuevas habilidades y convertir datos en información de valor.
