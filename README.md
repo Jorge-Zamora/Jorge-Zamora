@@ -18,11 +18,11 @@ En este perfil comparto mis proyectos y trabajos relacionados con análisis, lim
 
 ## 📊 Áreas de interés
 
-- Data Analytics
-- Business Intelligence (BI)
-- Data Quality
-- Data Cleaning & Transformation
-- Reporting & Dashboards
+- Análisis de datos
+- Inteligencia de negocios (BI)
+- Calidad de Datos
+- Limpieza y transformación de datos
+- Elaboración de reportes y Dashboards
 - Análisis de información financiera y presupuestaria
 - Automatización y mejora de procesos
   
