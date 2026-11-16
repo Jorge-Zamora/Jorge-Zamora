@@ -1,14 +1,10 @@
-# ¡Hola! Soy Jorge Giovanni Zamora Reyes 👋
+¡Hola! Soy Jorge Giovanni Zamora Reyes 👋
 
-### Analista de Datos Jr. | Data Analytics | Reporting | Data Quality
+Analista de Datos Jr. | Data Analytics | Reporting | Data Quality
 
-Egresado de Administración Industrial por el Instituto Politécnico Nacional (IPN), orientado al análisis de datos, calidad de información y mejora de procesos.
+Egresado de Administración Industrial (IPN), orientado al análisis de datos, calidad de información y Business Intelligence.
 
-Cuento con experiencia en depuración, validación, transformación y análisis de información, cruces de bases de datos y elaboración de reportes en Excel y Google Sheets.
-
-He desarrollado experiencia en el sector financiero y gubernamental, participando en procesos de conciliación de información, prevención de fraudes, gestión documental y control de datos.
-
-Mi objetivo profesional es seguir desarrollándome en el área de análisis de datos, aplicando herramientas de inteligencia de negocios para transformar información en conocimiento útil para la toma de decisiones.
+En este perfil comparto mis proyectos y trabajos relacionados con análisis, limpieza, transformación y visualización de datos, utilizando diferentes herramientas de análisis e inteligencia de negocios.
 
 ## 🛠️ Herramientas y tecnologías
 
