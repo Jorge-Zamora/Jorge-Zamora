@@ -1,4 +1,4 @@
-¡Hola! Soy Jorge Giovanni Zamora Reyes 👋
+¡Hola! Soy Jorge Giovanni Zamora Reyes 
 
 Analista de Datos Jr. | Data Analytics | Reporting | Data Quality
 
@@ -25,4 +25,4 @@ En este perfil comparto mis proyectos y trabajos relacionados con análisis, lim
 - Reporting & Dashboards
 - Análisis de información financiera y presupuestaria
 - Automatización y mejora de procesos
-
+  
